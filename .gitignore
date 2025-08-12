@@ -1,0 +1,23 @@
+dist/
+vendor/
+composer.lock
+.DS_Store
+Thumbs.db
+.env" > .gitignore
+
+# Node.js dependencies
+node_modules/
+
+# Tailwind build output
+dist/
+
+# PHP related
+vendor/
+composer.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
